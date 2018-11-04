@@ -8,7 +8,6 @@ Home page
 Adding repository example: facebook / react
 ![Second](http://i67.tinypic.com/288nl6q.png)
 
-
-if you type an existing repository the input becomes red
+if you enter a nonexistent repository, the entry will turn red
 
 ![three](http://i68.tinypic.com/2ldu242.png)
