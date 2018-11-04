@@ -2,7 +2,7 @@ Application created in RocketSeat bootcamp, using react, styled component, axios
 
 
 Home page
-![first](https://ibb.co/fFFv50)
+![first](http://i67.tinypic.com/288nl6q.png)
 
 
 Adding repository examplo: facebook / react
