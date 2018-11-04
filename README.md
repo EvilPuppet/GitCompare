@@ -5,7 +5,7 @@ Home page
 ![first](http://i63.tinypic.com/xb0cx5.png)
 
 
-Adding repository examplo: facebook / react
+Adding repository example: facebook / react
 ![Second](http://i67.tinypic.com/288nl6q.png)
 
 
