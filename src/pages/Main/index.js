@@ -57,8 +57,6 @@ export default class Main extends Component {
 
                     <CompareList repositories={this.state.repositories} />
       </Container>
-
-
     </React.Fragment>
         );
     }
